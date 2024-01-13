@@ -42,6 +42,7 @@ public class Main {
             // !(false || true) && true => !(0 + 1) * 1 => 0 * 1 = 0 (FALSE)
             System.out.println("Go to party");
         }
+        // Hi Sensei
 
         if (temperature != 10) { // != проверка на неравенство
             System.out.println("Something");
